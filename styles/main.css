@@ -397,6 +397,9 @@ nav {
   display: flex;
   opacity: 0.85;
 }
+.product-card > img:hover {
+  cursor: pointer;
+}
 
 .product-detail-close:hover {
   cursor: pointer;

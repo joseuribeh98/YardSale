@@ -92,12 +92,14 @@ navBarEmail.addEventListener("click", toggleDesktopMenu)
 function toggleDesktopMenu() {
   desktopMenu.classList.toggle("inactive");
   shoppingCart.classList.remove("asideVisible")
+  productDetail.classList.remove("asideVisible");
 }
 
 hamburgerMenu.addEventListener("click", toggleMobileMenu)
 function toggleMobileMenu() {
   mobileMenu.classList.toggle("menuVisible");
   shoppingCart.classList.remove("asideVisible")
+  productDetail.classList.remove("asideVisible");
 }
 
 shoppingCartIcon.addEventListener("click", toggleShoppingCart)
