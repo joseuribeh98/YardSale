@@ -5,9 +5,9 @@ This is a simple yet interactive JavaScript project created as part of the Pract
 
 ## Features
 
-- **Basic Web Layout**: The project provides a simple, effective user interface designed using HTML and CSS. It includes key layout elements such as a navigation bar, main content area, and a footer.
+- **Basic Web Layout**: The project provides a simple, effective user interface for a shop designed using HTML and CSS. It includes key layout elements such as a navigation bar, main content area with a list of products using CSS grid and rendered using a fake API.
 
-- **JavaScript Functionality**: Several interactive components have been added to the main view using JavaScript. These demonstrate basic JavaScript functionalities like event handling, DOM manipulation, and data manipulation.
+- **JavaScript Functionality**: Product cards and product details have been added to the main view using JavaScript. These demonstrate basic JavaScript functionalities like event handling, DOM manipulation, and data manipulation.
 
 - **Code Structure and Readability**: The project's codebase is well-structured and readable, in line with best practices taught during the course. This makes it a great learning resource for beginners.
 
