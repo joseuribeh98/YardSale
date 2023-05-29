@@ -73,7 +73,7 @@ function renderProducts(arr) {
 
     const productInfoFigure = document.createElement('figure');
     const productInfoAddToCartImg = document.createElement('img');
-    productInfoAddToCartImg.setAttribute('src', '../assets/icons/bt_add_to_cart.svg');
+    productInfoAddToCartImg.setAttribute('src', './assets/icons/bt_add_to_cart.svg');
 
     productInfoFigure.append(productInfoAddToCartImg);
     productInfoDiv.append(productPrice, productName);
