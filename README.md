@@ -11,6 +11,10 @@ This is a simple yet interactive JavaScript project created as part of the Pract
 
 - **Code Structure and Readability**: The project's codebase is well-structured and readable, in line with best practices taught during the course. This makes it a great learning resource for beginners.
 
+
+## Live Demo
+Experience the main page live at https://joseuribeh98.github.io/YardSale/
+
 ## Installation
 
 1. Clone this repository.
