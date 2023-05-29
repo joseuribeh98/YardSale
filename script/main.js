@@ -60,7 +60,8 @@ productList.push({
   image: "https://images.pexels.com/photos/1405355/pexels-photo-1405355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 })
 
-for (product of productList) {
+function renderProducts(arr) {
+for (product of arr) {
   const productCard = document.createElement('div')
   productCard.classList.add('product-card')
 
@@ -89,3 +90,6 @@ for (product of productList) {
   
   cardsContainer.append(productCard)
 }
+}
+
+renderProducts(productList)
